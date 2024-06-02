@@ -1,4 +1,4 @@
-﻿* {
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -319,7 +319,7 @@ header {
 /*image after header*/
 
 .image-devider {
-    background: url(image/pexels-monstera-production-7691122.jpg) bottom no-repeat;
+    background: url(image/pexels-monstera-production-7691122.webp) bottom no-repeat;
     padding: 60px;
     display: flex;
     flex-direction: column;
@@ -682,7 +682,7 @@ header {
 /*offer*/
 
 .offer {
-    background: url(image/pexels-cottonbro-studio-7760806.jpg) bottom no-repeat;
+    background: url(image/pexels-cottonbro-studio-7760806.webp) bottom no-repeat;
     background-size: cover;
 }
 
